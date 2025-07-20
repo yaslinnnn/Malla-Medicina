@@ -1,0 +1,44 @@
+<tbody>
+  <!-- PRIMER CUATRIMESTRE -->
+  <tr onclick="showPopup('ESP-095', 'Lengua Española Básica', 'Créditos: 4\nHT: 64\nHP: 0\nTH: 64')">
+    <td>1</td>
+    <td>ESP-095</td>
+    <td>Lengua Española Básica</td>
+    <td>4</td>
+  </tr>
+  <tr onclick="showPopup('ING-100', 'Inglés I', 'Créditos: 4\nHT: 64\nHP: 0\nTH: 64')">
+    <td>1</td>
+    <td>ING-100</td>
+    <td>Inglés I</td>
+    <td>4</td>
+  </tr>
+  <tr onclick="showPopup('MAT-095', 'Matemática Básica', 'Créditos: 4\nHT: 64\nHP: 0\nTH: 64')">
+    <td>1</td>
+    <td>MAT-095</td>
+    <td>Matemática Básica</td>
+    <td>4</td>
+  </tr>
+  <tr onclick="showPopup('MED-100', 'Biología I', 'Créditos: 3\nHT: 48\nHP: 0\nTH: 48\nCo-Req: MED-010')">
+    <td>1</td>
+    <td>MED-100</td>
+    <td>Biología I</td>
+    <td>3</td>
+  </tr>
+  <tr onclick="showPopup('MED-010', 'Laboratorio de Biología I', 'Créditos: 1\nHT: 0\nHP: 32\nTH: 32\nCo-Req: MED-100')">
+    <td>1</td>
+    <td>MED-010</td>
+    <td>Lab. Biología I</td>
+    <td>1</td>
+  </tr>
+  <tr onclick="showPopup('ORI-112', 'Orientación Universitaria', 'Créditos: 2\nHT: 32\nHP: 0\nTH: 32')">
+    <td>1</td>
+    <td>ORI-112</td>
+    <td>Orientación Universitaria</td>
+    <td>2</td>
+  </tr>
+  <tr onclick="showPopup('SOC-116', 'Metodología de la Investigación', 'Créditos: 4\nHT: 64\nHP: 0\nTH: 64')">
+    <td>1</td>
+    <td>SOC-116</td>
+    <td>Metodología de la Investigación</td>
+    <td>4</td>
+  </tr>
